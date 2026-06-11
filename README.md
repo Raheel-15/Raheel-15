@@ -17,5 +17,3 @@ I’m a student learning programming and building my skills in Python and web de
 
 ---
 [![](https://komarev.com/ghpvc/?username=Raheel&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
