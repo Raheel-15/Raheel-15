@@ -11,7 +11,6 @@ I’m a student learning programming and building my skills in Python and web de
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Raheel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
